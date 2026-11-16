@@ -37,7 +37,7 @@ AGENTS.md               협업 규칙 (AI 도구가 읽는 파일, CLAUDE.md도 
 ## 시작하기
 
 ```bash
-git clone https://github.com/wkuMyeungsu/physical-ai-teamproject_01.git
+git clone https://github.com/myeongsu-dev/physical-ai-teamproject_01.git
 cd physical-ai-teamproject_01
 git switch base/<서비스>                     # 예: git switch base/ocr-extract
 git switch -c feature/<서비스>-<기능>         # 예: git switch -c feature/ocr-extract-crop-filter
