@@ -1,7 +1,7 @@
 # 협업 규칙 (AI 프롬프트용)
 
 이 저장소에서 작업할 때 아래 규칙을 반드시 따른다.
-저장소: `https://github.com/wkuMyeungsu/physical-ai-teamproject_01.git`
+저장소: `https://github.com/myeongsu-dev/physical-ai-teamproject_01.git`
 
 ## 서비스 목록
 
